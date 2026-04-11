@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "OPD Saathi",
+    "slug": "opd-saathi",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.vaibhavguptahere.opdsaathi"
+    }
+  }
+}
